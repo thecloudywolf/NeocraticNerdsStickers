@@ -25,4 +25,4 @@ Anyways, now, back to the stickers. They were made in Adobe Illustrator, and wer
 <br> <br>
 5. When you are all done, and you have your sticker pack how you want, you need to deploy it, so, if you have a device, follow these steps, if not, then skip to step --
 <br> <br>
-6.
+6. Plug in your iOS device
