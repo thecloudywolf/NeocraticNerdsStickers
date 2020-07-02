@@ -14,6 +14,7 @@ In the past, there was an app called Cydia Impactor, but due to how apple treats
 Anyways, now, back to the stickers. They were made in Adobe Illustrator, and were imported into Xcode. This is probably the easiest thing that I've done in Xcode, and now I'm going to show you how you can make your own stickers
 <Br><BR>
 1. Design your stickers in an image editing program, whether it's Photoshop, Illustrator, or even Gimp or Microsoft Paint, as long as it's in a png format, then it will work
+  * You may want to make the stickers kind of small, probably 255x255 or 500x500
 <br><br>
 2. Save all of your pictures in an easily accessible folder
 <br><br>
