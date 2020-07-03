@@ -24,6 +24,20 @@ Anyways, now, back to the stickers. They were made in Adobe Illustrator, and wer
 <br> <br>
 4. Finally, click on the "Sticker Pack" folder, and drag your pictures into Xcode
 <br> <br>
-5. When you are all done, and you have your sticker pack how you want, you need to deploy it, so, if you have a device, follow these steps, if not, then skip to step --
+5. When you are all done, and you have your sticker pack how you want, you need to deploy it, so, if you have a device, follow these steps, if not, then skip to step 9
 <br> <br>
 6. Plug in your iOS device
+<br><br>
+7. Go to the build options (You will see a phone icon if it's plugged in correctly
+<br><Br>
+8. Setup the phone for developer mode
+<br><br>
+9. Deploy the app to your phone
+  - If you are using the simulator, then follow the steps below
+   * Click on the device icon
+   * Select a simulator, it may download a file to your computer
+    * Let the file download completely
+   * Finally, Deploy the app by pressing play
+10. Open Messages if the app hasn't already opened
+11. Test the Stickers
+## You're Done
