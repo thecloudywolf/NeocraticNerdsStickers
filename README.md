@@ -39,5 +39,7 @@ Anyways, now, back to the stickers. They were made in Adobe Illustrator, and wer
     * Let the file download completely
    * Finally, Deploy the app by pressing play
 10. Open Messages if the app hasn't already opened
+<br><br>
 11. Test the Stickers
+<br><br>
 ## You're Done
